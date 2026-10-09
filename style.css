@@ -14,10 +14,10 @@
 
 :root {
   /* 🟠 PEACH */
-  /*--accent: #ff8a5c; */
+  --accent: #ff8a5c; 
 
   /* 🔵 SKY BLUE */
-   /* --accent: #7cc4ff;  */
+    --accent: #7cc4ff; 
 
   /* 🟣 LAVENDER */
   --accent: #blue;
