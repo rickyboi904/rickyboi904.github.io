@@ -50,7 +50,7 @@
   --surface: #ffffff;
   --ink: #1f1b18;
   --muted: #5f5750;
-  --line: #e4dcd1;
+  --line: #blue;
   --on-accent: #1f1b18; /* text that sits on top of your color */
   --accent-soft: color-mix(in srgb, var(--accent) 18%, var(--bg));
   --accent-text: color-mix(in srgb, var(--accent) 45%, var(--ink));
